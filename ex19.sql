@@ -1,4 +1,4 @@
--- Requête 19. Lister les officiers qui ont des associations avec des entités et des intermédiaires :
+-- Requête 19. Lister les officiers qui ont des associations avec des entités et des intermédiaires
 SELECT
     officer.name AS officer_name,
     entity.name AS entity_name,
